@@ -1,0 +1,3 @@
+function mycode() {
+  return "value";
+}
