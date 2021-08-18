@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/luismaglz/miniature-enigma/compare/package-a@0.1.0...package-a@0.2.0) (2021-08-18)
+
+
+### Features
+
+* Added new method to package A ([29dee70](https://github.com/luismaglz/miniature-enigma/commit/29dee704d5f47c051dac43eb5ec22580eb1bb5e6))
+
+
+
+
+
 # 0.1.0 (2021-08-18)
 
 
