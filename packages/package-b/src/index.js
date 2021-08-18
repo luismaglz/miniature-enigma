@@ -9,3 +9,7 @@ function random2() {
 function random3() {
   return 1;
 }
+
+function random4() {
+  return 1;
+}
